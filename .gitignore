@@ -1,0 +1,19 @@
+# Data and virtual environment
+.venv
+venv
+data
+.vscode
+
+# Cluster stuff
+kubernetes
+run_cluster.sh
+run_all_cluster.sh
+
+# Logs
+lightning_logs
+
+# Mac Files
+.DS_Store
+
+# python cache
+__pycache__
