@@ -1,0 +1,16 @@
+graphviz
+hdbscan
+lightning
+loguru
+matplotlib
+networkx
+numpy
+pydantic<2
+pytrails
+scipy
+seaborn
+sklearn
+torch
+torchmetrics
+transformers
+umap-learn[plot]
