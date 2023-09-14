@@ -2,8 +2,6 @@
 
  ![](main-fig.png)
 
-This is the code repository for the publication "Higher-Order DeepTrails: Unified Approach to *Trails".
-
 Abstract
 Analyzing, understanding, and describing human behavior is advantageous in different settings, such
 as web browsing or traffic navigation. Understanding human behavior naturally helps to improve and
@@ -24,6 +22,8 @@ users interacting with voice assistants.
 
 Keywords
 Behavior Analysis, Sequential Data Analysis, Autoregressive Language Models
+
+Appendix can be found here: https://professor-x.de/deeptrails-arxiv
 
 ## How to run
 First install the requirements:
